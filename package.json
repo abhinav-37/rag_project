@@ -1,0 +1,35 @@
+{
+  "name": "rag_project",
+  "version": "1.0.0",
+  "main": "dist/server.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "dev": "nodemon src/server.ts"
+  },
+  "keywords": [
+    "rag",
+    "chatbot",
+    "typescript",
+    "anthropic"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "RAG chatbot for customer support documentation",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.52.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.18",
+    "@types/express": "^5.0.2",
+    "@types/node": "^22.15.21",
+    "@types/pdf-parse": "^1.1.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3",
+    "nodemon": "^3.0.1"
+  }
+}

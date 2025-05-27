@@ -1,0 +1,55 @@
+SAMPLE CUSTOMER SUPPORT DOCUMENTATION
+=====================================
+
+This is a sample documentation file to demonstrate the RAG chatbot functionality.
+
+FREQUENTLY ASKED QUESTIONS
+==========================
+
+Q: How do I reset my password?
+A: To reset your password, go to the login page and click "Forgot Password". Enter your email address and you'll receive a reset link within 5 minutes.
+
+Q: What are your business hours?
+A: Our customer support is available Monday through Friday, 9 AM to 6 PM EST. We also offer limited support on weekends from 10 AM to 2 PM EST.
+
+Q: How do I cancel my subscription?
+A: You can cancel your subscription by logging into your account, going to Settings > Billing, and clicking "Cancel Subscription". Your access will continue until the end of your current billing period.
+
+Q: What payment methods do you accept?
+A: We accept all major credit cards (Visa, MasterCard, American Express), PayPal, and bank transfers for enterprise customers.
+
+TROUBLESHOOTING
+===============
+
+Issue: Cannot log into account
+Solution: First, check that you're using the correct email address. If you're still having trouble, try resetting your password. If the problem persists, contact our support team.
+
+Issue: Slow performance
+Solution: Clear your browser cache and cookies. Make sure you're using a supported browser (Chrome, Firefox, Safari, or Edge). Check your internet connection speed.
+
+Issue: Features not working
+Solution: Ensure JavaScript is enabled in your browser. Try disabling browser extensions temporarily. If using a mobile device, try the desktop version.
+
+CONTACT INFORMATION
+==================
+
+Email: support@company.com
+Phone: 1-800-123-4567
+Live Chat: Available on our website during business hours
+
+BILLING INFORMATION
+==================
+
+Billing cycles: Monthly or annual
+Payment processing: Payments are processed on the same date each month
+Refund policy: Full refunds available within 30 days of purchase
+Late payments: Accounts are suspended after 7 days of non-payment
+
+ACCOUNT MANAGEMENT
+==================
+
+Profile updates: You can update your profile information in the Settings section
+Data export: You can export your data at any time from the Account section
+Account deletion: Contact support to permanently delete your account and all associated data
+
+This is sample content to test the RAG system. Replace this file with your actual PDF documentation.
